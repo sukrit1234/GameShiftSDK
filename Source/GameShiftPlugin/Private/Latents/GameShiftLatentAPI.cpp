@@ -1,5 +1,5 @@
 
-#include "Latents/GameShiftLoginUser.h"
+#include "Latents/GameShiftLatentAPI.h"
 #include "GameShiftAPI.h"
 
 FGameShiftLogin::FGameShiftLogin(const FGameShiftLoginRequest& InRequest, const FGameShiftUserResultSignature& InOnSuccess, const FGameShiftErrorSignature& InOnError, const FLatentActionInfo& LatentInfo)
