@@ -1,7 +1,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameShiftLatentActions.h"
+#include "GameShiftLatentAPI.h"
 
 class FGameShiftLogin : public FGameShiftLatentAction
 {
