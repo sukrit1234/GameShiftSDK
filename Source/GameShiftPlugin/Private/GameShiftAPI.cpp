@@ -1,7 +1,7 @@
 
 #include "GameShiftAPI.h"
 #include "GameShiftRequestHandler.h"
-#include "Latents/GameShiftLoginUser.h"
+#include "Latents/GameShiftLatentAPI.h"
 
 UGameShiftAPI::UGameShiftAPI()
 {
